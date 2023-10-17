@@ -1,1 +1,1 @@
-# expression_analysis
+# Scripts for analysis of developmental transcriptomes
